@@ -1,0 +1,11 @@
+/**
+ * Device Class Identification:
+ * 
+ * Class Name   :	CombinedGaugeDS
+ * Contact      :	srubio@cells.es
+ * Class Family :	CombinedGaugeDS
+ * Platform     :	Unix Like
+ * Bus          :	rs232
+ * Manufacturer :	none
+ * Reference    :	
+ */
