@@ -1,0 +1,23 @@
+------------------------------------------------------------------------
+r23310 | sergi_rubio | 2017-02-06 12:07:22 +0100 (Mon, 06 Feb 2017) | 1 line
+
+Apply patch for memory leak, solve bug on pressure reading
+------------------------------------------------------------------------
+r19942 | sergi_rubio | 2015-05-18 13:50:28 +0200 (Mon, 18 May 2015) | 1 line
+
+Using DevSerWriteChar insted of DevSerWriteString to prevent mem leaks in Tango8
+------------------------------------------------------------------------
+r19254 | sergi_rubio | 2015-02-09 11:43:32 +0100 (Mon, 09 Feb 2015) | 1 line
+
+Tango8 MemLeaks: DevSerWriteString replaced by DevSerWriteChar
+------------------------------------------------------------------------
+r18276 | sergi_rubio | 2014-08-20 11:48:40 +0200 (Wed, 20 Aug 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r18275 | sergi_rubio | 2014-08-20 11:45:14 +0200 (Wed, 20 Aug 2014) | 3 lines
+
+adding CombinedGaugeDS
+
+
+------------------------------------------------------------------------
